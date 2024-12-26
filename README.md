@@ -1,2 +1,2 @@
 # pyton-darslarim
-Ushbu repositoriya python darslariga id kodlarim jamlangan.
+Ushbu repositoriyda python darslariga id kodlarim jamlangan.
